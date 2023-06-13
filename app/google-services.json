@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891285851058",
+    "project_id": "app-frestore-firebase",
+    "storage_bucket": "app-frestore-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891285851058:android:0a27399c0a6b0a14f3f2ab",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891285851058-a3982ajc3ij9behmbq0qkeq9bj12508d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVslYHKADNpfbYRiTFABcyEwJx3X3U4M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891285851058-a3982ajc3ij9behmbq0qkeq9bj12508d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
